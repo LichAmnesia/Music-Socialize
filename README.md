@@ -1,4 +1,4 @@
-![Demo](https://youtu.be/AmVxpNVYPXg)
+[Demo](https://youtu.be/AmVxpNVYPXg)
 
 
 #Usage
